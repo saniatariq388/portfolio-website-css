@@ -1,0 +1,47 @@
+.hero{
+    width: 100%;
+    background-color: var(--background-blue);
+    text-align: center;
+    padding-top:7.4688rem ;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.hero h1{
+    font-size:1.8987rem;
+    line-height: 3rem;
+
+}
+
+.hero span{
+    color: var(--highLight-color);
+}
+
+.hero p{
+    margin-top: 1.25rem;
+    margin-bottom: 2.0313rem;
+}
+
+.hero .socialIcons{
+    margin: auto;
+    padding: .6875rem 1.6875rem;
+    display:inline-flex;
+    justify-content: space-between;
+    align-items: center;
+    gap:50px ;
+    background-color:var(--hover-button-color) ;
+    border-radius:1.625rem;
+    margin-top: 3.125rem;
+    margin-bottom: 4.375rem;
+}
+
+.bottomImgDiv{
+    width: 100%;
+    background-color:var(--background-brightBlue-color) ;
+    padding: .5rem 9.0625rem;
+    display: flex;
+    gap: 9.0625rem;
+    justify-content: space-between;
+    align-items: center;
+}

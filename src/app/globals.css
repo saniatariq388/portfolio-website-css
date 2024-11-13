@@ -2,4 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+:root{
+    --background-tealBlue:#3A6D8C;
+    --background-blue:#001F3F;
+    --highLight-color:#EAD8B1;
+    --botton-color:#3A6D8C;
+    --hover-button-color:#6A9AB0;
+    --background-brightBlue-color:#000B58;
+    --background-lightBlue-color:#003161;
+}
 
+body{
+    color:white;
+}

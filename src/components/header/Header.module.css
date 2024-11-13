@@ -1,0 +1,43 @@
+.header{
+    width:100% ;
+    height:5.25rem ;
+    background-color:var(--background-tealBlue);
+    padding: 24px 2.6875rem;
+}
+
+.nav{
+    width: 100%;
+    height:100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.nav h1{
+    font-size: 1.875rem;
+    font-weight: bold;
+    line-height: 2.8125rem;
+
+}
+
+.nav span{
+    color: var(--background-blue);
+}
+
+.nav ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.875rem;
+}
+
+.nav ul li{
+    font-size:.835rem ;
+    line-height: 1.6875rem;
+    letter-spacing:0.9px;
+
+    &:hover{
+        color: var(--background-blue);
+    }
+}
