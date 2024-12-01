@@ -34,11 +34,11 @@ export const portfolioCards = [
         title:"Simple Calculator",
         href:"https://github.com/saniatariq388/simple-calculator.git"
     },
-    {
-        id:6,
-        type:"image",
-        src:"",
-        title:"Lorem, ipsum",
-        href:"#!"
-    },
+    // {
+    //     id:6,
+    //     type:"image",
+    //     src:"",
+    //     title:"Lorem, ipsum",
+    //     href:"#!"
+    // },
 ]
