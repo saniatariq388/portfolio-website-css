@@ -1,0 +1,29 @@
+.card{
+    display: flex;
+    flex-direction: column;
+}
+
+.cardImage{
+    height: 350px;
+    background-color: var(--background-lightBlue-color);
+    border-radius: 24px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardText{
+    height: auto;
+    margin-top: 24pcx;
+    color: var(--highLight-color);
+}
+
+.img{
+    transition: all 0.6s ease-in-out;
+}
+
+.img:hover{
+    rotate:-2deg;
+    scale:1.05;
+}
