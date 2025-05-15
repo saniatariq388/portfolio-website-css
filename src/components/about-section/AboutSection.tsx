@@ -5,6 +5,7 @@ import { caveatFont, interFont } from '@/fonts'
 import Button from '../button/Button'
 import Image from 'next/image'
 import { motion } from 'framer-motion'
+import Link from 'next/link';
 
 function AboutSection() {
   return (
@@ -18,8 +19,8 @@ function AboutSection() {
           <h1 className={caveatFont.className}>Sania Tariq</h1>
           <p className={caveatFont.className}>Freelance Web Developer</p>
           <h2 className={`${styles.detailsText} ${interFont.className}`}>I am a passionate junior full-stack developer specializing in Next.js and React frameworks for building dynamic and responsive web applications. Alongside frontend development, I work with Streamlit to create interactive data apps. Currently, I am expanding my backend skills by learning Python and FastAPI to build efficient and scalable APIs. I am eager to grow my expertise and contribute to impactful projects using modern web technologies.</h2>
-
-          <Button text={"Contact Me"} />
+            <Link href={"#contact"}>
+          <Button text={"Contact Me"} /></Link>
         </motion.div>
 
         <motion.div className={styles.aboutRightDiv}
