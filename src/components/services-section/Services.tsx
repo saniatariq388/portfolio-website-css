@@ -16,11 +16,7 @@ function Services() {
                 </h1>
 
                 <p className={interFont.className}>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt
-                    deserunt laudantium officia fuga ipsam quasi corrupti in
-                    <br />
-                    numquam dolor libero explicabo, inventore aperiam, commodi et!
-                </p>
+                As a junior full-stack developer, I build engaging and responsive web applications using Next.js and React. I also develop interactive data-driven apps with Streamlit. Currently, I am enhancing my backend skills by learning Python and FastAPI to create robust and efficient APIs. I am dedicated to delivering high-quality code and constantly improving my abilities to contribute effectively to modern development projects.</p>
 
                 <div className={styles.servicesCardDiv}>
                     <ServicesCard/>
