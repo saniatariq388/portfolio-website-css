@@ -32,7 +32,7 @@ function PortfolioCard() {
                        />    
                       </Link>
                     ):(
-                        <video src={item.src} controls loop muted></video>
+                        <video src={item.src} controls={true} loop={true} muted></video>
                     )}
                 </div>
                 </Link>
