@@ -42,8 +42,7 @@ function ContactUs() {
             <span>M</span>e
         </h1>
 
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt deserunt laudantium officia fuga ipsam quasi corrupti in
-        <br />numquam dolor libero explicabo, inventore aperiam.</p>
+        <p> Want to connect? Feel free to reach out — I'm just an email away!</p>
 
         <div className={styles.contactUsBottomDiv}>
             <div className={styles.contactLeftDiv}>
