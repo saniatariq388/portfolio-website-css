@@ -42,7 +42,7 @@ function ContactUs() {
             <span>M</span>e
         </h1>
 
-        <p> Want to connect? Feel free to reach out — I'm just an email away!</p>
+        <p> Want to connect? Feel free to reach out — I am just an email away!</p>
 
         <div className={styles.contactUsBottomDiv}>
             <div className={styles.contactLeftDiv}>
