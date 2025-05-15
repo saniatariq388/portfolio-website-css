@@ -17,7 +17,7 @@ function AboutSection() {
         >
           <h1 className={caveatFont.className}>Sania Tariq</h1>
           <p className={caveatFont.className}>Freelance Web Developer</p>
-          <h2 className={`${styles.detailsText} ${interFont.className}`}>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore, dolorum odio magni possimus corrupti molestiae labore voluptatum ut autem deleniti facilis tempora commodi dolores debitis repellendus excepturi nisi? Quisquam suscipit iste facere molestiae saepe voluptates.</h2>
+          <h2 className={`${styles.detailsText} ${interFont.className}`}>I am a passionate junior full-stack developer specializing in Next.js and React frameworks for building dynamic and responsive web applications. Alongside frontend development, I work with Streamlit to create interactive data apps. Currently, I am expanding my backend skills by learning Python and FastAPI to build efficient and scalable APIs. I am eager to grow my expertise and contribute to impactful projects using modern web technologies.</h2>
 
           <Button text={"Contact Me"} />
         </motion.div>
