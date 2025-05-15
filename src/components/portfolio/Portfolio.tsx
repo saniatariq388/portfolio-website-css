@@ -13,10 +13,7 @@ function Portfolio() {
                     <span>W</span>ork
                 </h1>
 
-                <p className={interFont.className}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt deserunt laudantium officia fuga ipsam quasi corrupti in
-                    <br />numquam dolor libero explicabo, inventore aperiam, commodi et! Quia iste tempora aut, illum culpa ipsum possimus saepe
-                    <br />eligendi.
-                </p>
+                <p className={interFont.className}>In my recent projects, I developed a fast Q-commerce website delivering a seamless shopping experience. I built interactive data analytics applications using Streamlit that provide real-time insights. Additionally, I created several CLI tools to automate workflows and improve efficiency. I designed and deployed a modern blog website using Next.js and React to share technical content. Throughout these projects, I extensively used Python for backend development and scripting.</p>
 
                 <div className={styles.myWork}>
                     <PortfolioCard/>
